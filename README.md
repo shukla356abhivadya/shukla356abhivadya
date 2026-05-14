@@ -6,7 +6,6 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Student
-- 🔐 Interested in Cyber Security & Ethical Hacking
 - 🤖 Learning AI, ML & Deep Learning
 - 💻 Exploring Full Stack & Open Source
 - 📚 Currently improving my DSA and development skills
