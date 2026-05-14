@@ -43,18 +43,19 @@
 
 ## 🌱 Currently Learning
 
-- Cyber Security
 - AI & Machine Learning
 - Deep Learning & CNN
 - Full Stack Development
+- Cyber Security
+
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abhivadya-shukla-03910a335)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaabhivadya356@gmail.com)
 
 ---
 
