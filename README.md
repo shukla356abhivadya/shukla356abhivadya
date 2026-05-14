@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhivadya Shukla</h1>
-<h3 align="center">B.Tech Student | Cyber Security Enthusiast | AI/ML Learner</h3>
+<h3 align="center">B.Tech Student | AI/ML Learner</h3>
 
 ---
 
